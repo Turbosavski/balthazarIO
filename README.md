@@ -8,7 +8,7 @@ KiCad 5.1.5 files
 
 BalthazarIO module is a simple USB2.0 four-port hub for the internal devices: keyboard and touchpad, webcam and optional audiocard. Additional simplification and pcb size reduction was done recently.
 
-IO-board (here) means connectivity with peripheral devices. These can be seen as on-board and out-board. On-board Balthazar devices include: combined usb1.1 keyboard + trackpad, usb2.0 webcam and optional audio-card. 
+IO-board (here) means connectivity with peripheral devices. These can be seen as on-board and out-board. On-board Balthazar devices include: combined usb2.0 keyboard + trackpad, usb2.0 webcam and optional audio-card. 
 
 Since we are targeting the mini-computer family of systems (Raspberry PI. Banana PI, Orange PI, ...) - USB is the usual solution for this. 
 
