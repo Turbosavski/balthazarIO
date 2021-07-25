@@ -4,7 +4,7 @@ These are electronic schematic modules as presented at https://balthazar.space/w
 
 KiCad 5.1.5 files
 
-# balthazarIO
+# balthazarIO is now replaced with balthazarPSU
 
 BalthazarIO module is a simple USB2.0 four-port hub for the internal devices: keyboard and touchpad, webcam and optional audiocard. Additional simplification and pcb size reduction was done recently.
 
